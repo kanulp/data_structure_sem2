@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS/demoapp/bin/Debug/netcoreapp3.1/demoapp
+/Users/kanu/Desktop/DS/demoapp/bin/Debug/netcoreapp3.1/demoapp.deps.json
+/Users/kanu/Desktop/DS/demoapp/bin/Debug/netcoreapp3.1/demoapp.runtimeconfig.json
+/Users/kanu/Desktop/DS/demoapp/bin/Debug/netcoreapp3.1/demoapp.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS/demoapp/bin/Debug/netcoreapp3.1/demoapp.dll
+/Users/kanu/Desktop/DS/demoapp/bin/Debug/netcoreapp3.1/demoapp.pdb
+/Users/kanu/Desktop/DS/demoapp/obj/Debug/netcoreapp3.1/demoapp.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS/demoapp/obj/Debug/netcoreapp3.1/demoapp.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS/demoapp/obj/Debug/netcoreapp3.1/demoapp.AssemblyInfo.cs
+/Users/kanu/Desktop/DS/demoapp/obj/Debug/netcoreapp3.1/demoapp.dll
+/Users/kanu/Desktop/DS/demoapp/obj/Debug/netcoreapp3.1/demoapp.pdb

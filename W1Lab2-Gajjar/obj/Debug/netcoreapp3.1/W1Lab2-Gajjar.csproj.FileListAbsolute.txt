@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/obj/Debug/netcoreapp3.1/W1Lab2-Gajjar.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/obj/Debug/netcoreapp3.1/W1Lab2-Gajjar.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/obj/Debug/netcoreapp3.1/W1Lab2-Gajjar.AssemblyInfo.cs
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/bin/Debug/netcoreapp3.1/W1Lab2-Gajjar
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/bin/Debug/netcoreapp3.1/W1Lab2-Gajjar.deps.json
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/bin/Debug/netcoreapp3.1/W1Lab2-Gajjar.runtimeconfig.json
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/bin/Debug/netcoreapp3.1/W1Lab2-Gajjar.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/bin/Debug/netcoreapp3.1/W1Lab2-Gajjar.dll
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/bin/Debug/netcoreapp3.1/W1Lab2-Gajjar.pdb
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/obj/Debug/netcoreapp3.1/W1Lab2-Gajjar.dll
+/Users/kanu/Desktop/DS/W1Lab2-Gajjar/obj/Debug/netcoreapp3.1/W1Lab2-Gajjar.pdb
