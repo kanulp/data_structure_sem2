@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kanu/.dotnet/store/|arch|/|tfm|",
+      "/Users/kanu/.nuget/packages"
+    ]
+  }
+}

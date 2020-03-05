@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/bin/Debug/netcoreapp3.1/W6Lab_Gajjar
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/bin/Debug/netcoreapp3.1/W6Lab_Gajjar.deps.json
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/bin/Debug/netcoreapp3.1/W6Lab_Gajjar.runtimeconfig.json
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/bin/Debug/netcoreapp3.1/W6Lab_Gajjar.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/bin/Debug/netcoreapp3.1/W6Lab_Gajjar.dll
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/bin/Debug/netcoreapp3.1/W6Lab_Gajjar.pdb
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/obj/Debug/netcoreapp3.1/W6Lab_Gajjar.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/obj/Debug/netcoreapp3.1/W6Lab_Gajjar.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/obj/Debug/netcoreapp3.1/W6Lab_Gajjar.AssemblyInfo.cs
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/obj/Debug/netcoreapp3.1/W6Lab_Gajjar.dll
+/Users/kanu/Desktop/DS_SEM2/W6Lab_Gajjar/obj/Debug/netcoreapp3.1/W6Lab_Gajjar.pdb

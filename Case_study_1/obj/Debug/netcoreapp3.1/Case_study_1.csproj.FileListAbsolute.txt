@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/bin/Debug/netcoreapp3.1/Case_study_1
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/bin/Debug/netcoreapp3.1/Case_study_1.deps.json
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/bin/Debug/netcoreapp3.1/Case_study_1.runtimeconfig.json
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/bin/Debug/netcoreapp3.1/Case_study_1.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/bin/Debug/netcoreapp3.1/Case_study_1.dll
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/bin/Debug/netcoreapp3.1/Case_study_1.pdb
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/obj/Debug/netcoreapp3.1/Case_study_1.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/obj/Debug/netcoreapp3.1/Case_study_1.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/obj/Debug/netcoreapp3.1/Case_study_1.AssemblyInfo.cs
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/obj/Debug/netcoreapp3.1/Case_study_1.dll
+/Users/kanu/Desktop/DS_SEM2/Case_study_1/obj/Debug/netcoreapp3.1/Case_study_1.pdb

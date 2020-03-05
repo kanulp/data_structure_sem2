@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kanu/Desktop/DS/W1Lab2-Gajjar/W1Lab2-Gajjar.csproj",
+      "projectUniqueName": "/Users/kanu/Desktop/DS_SEM2/W1Lab2-Gajjar/W1Lab2-Gajjar.csproj",
       "projectName": "W1Lab2-Gajjar",
-      "projectPath": "/Users/kanu/Desktop/DS/W1Lab2-Gajjar/W1Lab2-Gajjar.csproj",
+      "projectPath": "/Users/kanu/Desktop/DS_SEM2/W1Lab2-Gajjar/W1Lab2-Gajjar.csproj",
       "packagesPath": "/Users/kanu/.nuget/packages/",
-      "outputPath": "/Users/kanu/Desktop/DS/W1Lab2-Gajjar/obj/",
+      "outputPath": "/Users/kanu/Desktop/DS_SEM2/W1Lab2-Gajjar/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kanu/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/midterm/bin/Debug/netcoreapp3.1/midterm
+/Users/kanu/Desktop/midterm/bin/Debug/netcoreapp3.1/midterm.deps.json
+/Users/kanu/Desktop/midterm/bin/Debug/netcoreapp3.1/midterm.runtimeconfig.json
+/Users/kanu/Desktop/midterm/bin/Debug/netcoreapp3.1/midterm.runtimeconfig.dev.json
+/Users/kanu/Desktop/midterm/bin/Debug/netcoreapp3.1/midterm.dll
+/Users/kanu/Desktop/midterm/bin/Debug/netcoreapp3.1/midterm.pdb
+/Users/kanu/Desktop/midterm/obj/Debug/netcoreapp3.1/midterm.csprojAssemblyReference.cache
+/Users/kanu/Desktop/midterm/obj/Debug/netcoreapp3.1/midterm.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/midterm/obj/Debug/netcoreapp3.1/midterm.AssemblyInfo.cs
+/Users/kanu/Desktop/midterm/obj/Debug/netcoreapp3.1/midterm.dll
+/Users/kanu/Desktop/midterm/obj/Debug/netcoreapp3.1/midterm.pdb
