@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/bin/Debug/netcoreapp3.1/week11StrategyPattern
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/bin/Debug/netcoreapp3.1/week11StrategyPattern.deps.json
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/bin/Debug/netcoreapp3.1/week11StrategyPattern.runtimeconfig.json
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/bin/Debug/netcoreapp3.1/week11StrategyPattern.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/bin/Debug/netcoreapp3.1/week11StrategyPattern.dll
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/bin/Debug/netcoreapp3.1/week11StrategyPattern.pdb
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/obj/Debug/netcoreapp3.1/week11StrategyPattern.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/obj/Debug/netcoreapp3.1/week11StrategyPattern.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/obj/Debug/netcoreapp3.1/week11StrategyPattern.AssemblyInfo.cs
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/obj/Debug/netcoreapp3.1/week11StrategyPattern.dll
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/week11StrategyPattern/obj/Debug/netcoreapp3.1/week11StrategyPattern.pdb

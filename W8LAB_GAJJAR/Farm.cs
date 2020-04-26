@@ -1,114 +1,96 @@
 using System;
-
-using System.Collections;  
 using System.Collections.Generic;
+using System.Collections;
+
 
 namespace W8LAB_GAJJAR
 {
-    class Farm<T> : ICollection<T>
-    where T : Animal
-    {   
-        List<T> animals = new List<T>();
-        private static Farm<T> _instance;
-        public string name {get;set;}
+    internal class Farm<T> : ICollection<T>
+        where T : Animal
+    {
+        static Dictionary<Type, Farm<T>> farmDict = new Dictionary<Type, Farm<T>>();
 
-        public int Count => GetCount();
-
-        public bool IsReadOnly {
-            get{
-                return false;
-            }
-        }
-        public Farm(string fname){
-            name=fname;
-        }
-
-        private Farm()
+        private Farm() { }
+        public static Farm<T> GetFarm()
         {
-
-        }
-        public static Farm<T>  GetInstance()
-        {
-            if (_instance == null)
+            Type t = typeof(T);
+            if (!farmDict.ContainsKey(t))
             {
-                _instance = new Farm<T>();
+                farmDict[t] = new Farm<T>();
             }
-            return _instance;
+            return farmDict[t];
         }
-        public static Farm<Cow> GetSingleTypeFarm(Animal animal){
-            if(animal is Cow){
-                return Farm<Cow>();
-            }else if(animal is Chicken){
-                return Farm<Chicken>();
-            }
-        }
+        private List<T> animals = new List<T>();
 
-        public void Add(T item){
+        public int Count => throw new NotImplementedException();
+
+        public bool IsReadOnly => throw new NotImplementedException();
+
+        public void Add(T item)
+        {
             animals.Add(item);
+            // throw new NotImplementedException();
         }
 
-        public void Clear(){
-            animals.Clear();
+        public void Clear()
+        {
+            throw new NotImplementedException();
         }
 
-        public bool Contains(T item){
-            return animals.Contains(item);
-        }
-
-        public void MakeNoises(){
-            foreach (var item in animals)
-            {
-                item.MakeANoise();
-            }
-        }
-
-        public void FeedTheAnimals(){
-            foreach (var item in animals)
-            {
-               item.Feed();
-            }
-        }
-
-        public Farm<W8LAB_GAJJAR.Cow> GetCows(){
-            Farm<Cow> dairyFarm = new Farm<Cow>(); 
-            foreach (var item in animals)
-            {
-                if (item is Cow)
-                {
-                    dairyFarm.Add(item as Cow);
-                }
-            }
-            return dairyFarm;
-        } 
-        
-        public int GetCount(){
-            return animals.Count;
-        }
-
-        public IEnumerable<T> GetEnumerable(){
-            return animals;
+        public bool Contains(T item)
+        {
+            throw new NotImplementedException();
         }
 
         public void CopyTo(T[] array, int arrayIndex)
         {
-            ((ICollection<T>)animals).CopyTo(array, arrayIndex);
-        }
-
-        public bool Remove(T item)
-        {
-            return ((ICollection<T>)animals).Remove(item);
+            throw new NotImplementedException();
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            return ((ICollection<T>)animals).GetEnumerator();
+            throw new NotImplementedException();
+        }
+
+        public bool Remove(T item)
+        {
+            throw new NotImplementedException();
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return ((ICollection<T>)animals).GetEnumerator();
+            throw new NotImplementedException();
         }
 
+        public void MakeNoises()
+        {
+            foreach (T i in animals)
+            {
+                i.MakeANoise();
+            }
+        }
 
+        public void FeedTheAnimals()
+        {
+            foreach (T i in animals)
+            {
+                i.Feed();
+            }
+        }
+
+        public Farm<Cow> GetCows()
+        {
+            Farm<Cow> cowFarm = new Farm<Cow>();
+            foreach (T animal in animals)
+            {
+                if (animal is Cow)
+                {
+                    cowFarm.animals.Add(animal as Cow);
+                }
+            }
+            return cowFarm;
+        }
     }
+
 }
+

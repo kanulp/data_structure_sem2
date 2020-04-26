@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS_SEM2/finalexam/obj/Debug/netcoreapp3.1/finalexam.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS_SEM2/finalexam/obj/Debug/netcoreapp3.1/finalexam.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS_SEM2/finalexam/obj/Debug/netcoreapp3.1/finalexam.AssemblyInfo.cs
+/Users/kanu/Desktop/DS_SEM2/finalexam/bin/Debug/netcoreapp3.1/finalexam
+/Users/kanu/Desktop/DS_SEM2/finalexam/bin/Debug/netcoreapp3.1/finalexam.deps.json
+/Users/kanu/Desktop/DS_SEM2/finalexam/bin/Debug/netcoreapp3.1/finalexam.runtimeconfig.json
+/Users/kanu/Desktop/DS_SEM2/finalexam/bin/Debug/netcoreapp3.1/finalexam.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS_SEM2/finalexam/bin/Debug/netcoreapp3.1/finalexam.dll
+/Users/kanu/Desktop/DS_SEM2/finalexam/bin/Debug/netcoreapp3.1/finalexam.pdb
+/Users/kanu/Desktop/DS_SEM2/finalexam/obj/Debug/netcoreapp3.1/finalexam.dll
+/Users/kanu/Desktop/DS_SEM2/finalexam/obj/Debug/netcoreapp3.1/finalexam.pdb

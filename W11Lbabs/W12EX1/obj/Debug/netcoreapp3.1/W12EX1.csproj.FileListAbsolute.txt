@@ -1,0 +1,11 @@
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/obj/Debug/netcoreapp3.1/W12EX1.csprojAssemblyReference.cache
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/obj/Debug/netcoreapp3.1/W12EX1.AssemblyInfoInputs.cache
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/obj/Debug/netcoreapp3.1/W12EX1.AssemblyInfo.cs
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/bin/Debug/netcoreapp3.1/W12EX1
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/bin/Debug/netcoreapp3.1/W12EX1.deps.json
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/bin/Debug/netcoreapp3.1/W12EX1.runtimeconfig.json
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/bin/Debug/netcoreapp3.1/W12EX1.runtimeconfig.dev.json
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/bin/Debug/netcoreapp3.1/W12EX1.dll
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/bin/Debug/netcoreapp3.1/W12EX1.pdb
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/obj/Debug/netcoreapp3.1/W12EX1.dll
+/Users/kanu/Desktop/DS_SEM2/W11Lbabs/W12EX1/obj/Debug/netcoreapp3.1/W12EX1.pdb
